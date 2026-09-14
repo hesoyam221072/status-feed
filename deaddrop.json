@@ -1,13 +1,14 @@
 {
   "payload": {
     "v": 1,
-    "issued": "2026-09-07T11:23:30Z",
+    "issued": "2026-09-14T20:49:58Z",
     "api": "https://vpn.brnvk.ru:8443",
     "api_fallbacks": [
-      "https://n7.brnvk.ru:8443"
+      "https://n7.brnvk.ru:8443",
+      "https://n9.brnvk.ru:8443"
     ],
     "min_app_version": "2.0.0",
     "apk_url": "https://brnvk.ru/dl/svoboda.apk"
   },
-  "sig": "MEQCIGQU5aVpfz7Mc6pyw1ZQ0pwPjH9BOHLHS/CfvfKJif8bAiB9UF0uWVAK9fl49dbUq7LO0VN98GPkp+ZbnCe07gxySg=="
+  "sig": "MEUCIQDk9F42xunDEGWcg604ADM0D643zyojF4xC+kzqChJ7kAIganPGDWoCYZ4Eul6EjzLmlR1vqVaF+hFAsWroIIiEWEQ="
 }
